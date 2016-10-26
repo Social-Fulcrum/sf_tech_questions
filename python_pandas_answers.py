@@ -46,8 +46,8 @@ def main():
 	What are the most and least expensive audiences by:
 		- CPM? https://en.wikipedia.org/wiki/Cost_per_mille
 		- CPC? http://www.wordstream.com/cost-per-click
-		- Cost per event_5?
-		- Cost per event_10?
+		- Cost per pixel_5?
+		- Cost per pixel_10?
 
 	To answer, please print the audience field for each metric.
 	Feel free to change the pre-set variable names if you like.
@@ -64,12 +64,12 @@ def main():
 	print 'High: ' + cpc_audience_high + ' Low: ' + cpc_audience_low
 	print '\n\n'
 
-	print 'Highest and lowest event_5:\n'
-	print 'High: ' + event5_audience_high + ' Low: ' + event5_audience_low
+	print 'Highest and lowest pixel_5:\n'
+	print 'High: ' + pixel5_audience_high + ' Low: ' + pixel5_audience_low
 	print '\n\n'
 
-	print 'Highest and lowest event_10:\n'
-	print 'High: ' + event10_audience_high + ' Low: ' + event10_audience_low
+	print 'Highest and lowest pixel_10:\n'
+	print 'High: ' + pixel10_audience_high + ' Low: ' + pixel10_audience_low
 	print '\n\n'
 
 	return None
