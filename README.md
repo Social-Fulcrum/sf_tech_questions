@@ -10,4 +10,4 @@ Review the sql_questions.txt file and the questions in python_pandas_answers.py,
 
 *To Submit*
 
-Either push your branch to the origin or email your sql_questions.sql and python_pandas_answers.py files to moon@socialfulcrum.com.
+Please reply to the email from Nelly Fickett you received containing this test from Nelly Fickett, with your completed sql_questions.sql and python_pandas_answers.py included as attachments.
