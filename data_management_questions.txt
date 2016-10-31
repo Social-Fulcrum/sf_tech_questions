@@ -1,0 +1,21 @@
+Using the sample_dataset.csv included in this directory, please answer the following questions. More information on sample_dataset.csv can be found in sample_dataset_documentation.md.
+
+QUESTION 1:
+
+Is there a meaningful relationship between the client's CPM and major calendar
+events (such as US holidays)?
+
+To answer, please provide the mean CPM for holidays and non-holidays.
+
+More information on CPM can be found here:
+https://en.wikipedia.org/wiki/Cost_per_mille
+
+QUESTION 2:
+
+What are the most and least expensive audiences by:
+	- CPM? https://en.wikipedia.org/wiki/Cost_per_mille
+	- CPC? http://www.wordstream.com/cost-per-click
+	- Cost per pixel_5?
+	- Cost per pixel_10?
+
+To answer, please provide the audience field for each metric.
