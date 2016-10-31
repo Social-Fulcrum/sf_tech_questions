@@ -21,4 +21,4 @@
 
 *To Submit*
 
-	Please reply to the email from Nelly Fickett you received containing this test, with your completed anwsers to sql_questions.txt and data_management_questions.txt included as attachments.
+* Please reply to the email from Nelly Fickett you received containing this test, with your completed anwsers to sql_questions.txt and data_management_questions.txt included as attachments.
