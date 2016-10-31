@@ -1,4 +1,5 @@
-Using the sample_dataset.csv included in this directory, please answer the following questions. More information on sample_dataset.csv can be found in sample_dataset_documentation.md.
+Using the sample_dataset.csv included in this directory, please answer the following questions. 
+More information on sample_dataset.csv can be found in sample_dataset_documentation.md.
 
 QUESTION 1:
 
